@@ -2,7 +2,7 @@
 
 I’m based in London and work across AI, automation and analytics at JPMorganChase, while studying part-time for an MSc in Computer Science at the University of Bath.
 
-I’m interested in turning complex workflows into useful tools—and understanding what makes AI applications reliable, understandable and worth using.
+I’m interested in turning complex workflows into useful tools - and understanding what makes AI applications reliable, understandable and worth using.
 
 ## What I work on
 
